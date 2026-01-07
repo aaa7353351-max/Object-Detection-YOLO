@@ -60,4 +60,4 @@ results = model.predict(
 📊 결과 분석
 ✅ 탐지 결과 시각화
 
-<img src="객체탐지이미지.png">
+<img src="object.png">
